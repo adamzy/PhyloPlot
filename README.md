@@ -11,7 +11,7 @@ A tool for plotting phylogenetic tree online using [d3.js](http://http://d3js.or
 ```
 git clone https://github.com/adamzy/PhyloPlot
 ```
-Then open an html file in the _phyloplot/html_ folder.
+Then open an html file in the _PhyloPlot/html_ folder.
 
 ## License
 
