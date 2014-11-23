@@ -9,9 +9,9 @@ A tool for plotting phylogenetic tree online using [d3.js](http://http://d3js.or
 ## Usage
 
 ```
-git clone https://github.com/adamzy/phyloplot
+git clone https://github.com/adamzy/PhyloPlot
 ```
-Then open a file in the _phyloplot/html_ folder.
+Then open an html file in the _phyloplot/html_ folder.
 
 ## License
 
@@ -19,8 +19,8 @@ GUN GPL v2.0
 
 ## Based on
 
-* [d3.js](http://http://d3js.org/)
-* [coffee-script](http://http://coffeescript.org/)
-* [jade](http://jade-lang.com/)
+* [d3.js](http://d3js.org/)
+* [CoffeeScript](http://coffeescript.org/)
+* [Jade](http://jade-lang.com/)
 * [jQuery](http://jquery.com)
 * [FileSaver](https://github.com/eligrey/FileSaver.js/)
