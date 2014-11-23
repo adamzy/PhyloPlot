@@ -15,7 +15,7 @@ Then open an html file in the _PhyloPlot/html_ folder.
 
 ## License
 
-GUN GPL v2.0
+GNU GPL v2.0
 
 ## Based on
 
