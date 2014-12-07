@@ -22,5 +22,6 @@ GNU GPL v2.0
 * [d3.js](http://d3js.org/)
 * [CoffeeScript](http://coffeescript.org/)
 * [Jade](http://jade-lang.com/)
+* [Bootstrap](http://getbootstrap.com)
 * [jQuery](http://jquery.com)
 * [FileSaver](https://github.com/eligrey/FileSaver.js/)
