@@ -4,7 +4,7 @@ A tool for plotting phylogenetic tree online using [d3.js](http://http://d3js.or
 
 ## Implemented layouts:
 
-* Equal-angle: the equal-angle algorithm [demo](http://phyloplot.appspot.com/)
+* Equal-angle: the equal-angle algorithm [demo](http://adamzy.github.io/phyloplot)
 
 ## Usage
 
