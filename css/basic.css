@@ -5,7 +5,7 @@
   font-weight: 400;
   font-style: normal;
   src: local('Alegreya'), local('Alegreya-regular'),
-       url('/PhyloPlot/fonts/Alegreya-regular/Alegreya-regular.ttf') format('truetype');
+       url('../fonts/Alegreya-regular/Alegreya-regular.ttf') format('truetype');
 }
 >>>>>>> master
 body {font-family: sans-serif; margin: 0 2em; font-size: 16px; line-height: 130%;}
