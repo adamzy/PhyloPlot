@@ -1,0 +1,33 @@
+body {font-family: sans-serif; margin: 0 2em; font-size: 16px; line-height: 130%;}
+h1, h2, h3, h4, h5, h6 {font-family: Helvetica, sans-serif; font-weight: bold; line-height:100%; margin-top: 1em; margin-bottom: 0.5em;}
+h1 {font-family:Alegreya,Times New Roman,Serif; font-size: 3.5em; color: #000000;}
+h2 {font-family:Monda,sans-serif; font-size: 1.8em; color: #707070;}
+h3 {font-family:Poiret One,cursive; font-size: 1.8em; color: #707070;}
+h4 {font-family:Strait,sans-serif; font-size: 1.4em; color: #909090;}
+h5 {font-family:Poiret One,cursive; font-size: 1.2em; color: #202020;}
+h6 {font-family:Strait,sans-serif; font-size: 1.2em; color: #404040}
+p, pre, blockquote, table, ul, ol, dl {margin-top: 1em; margin-bottom: 1em;}
+ul ul, ul ol, ol ol, ol ul {margin-top: 0.5em; margin-bottom: 0.5em;}
+li {margin: 0.3em auto;}
+ul {margin-left: 2em; padding-left: 0.5em;}
+dt {font-weight: bold;}
+img {border: none;}
+pre {border-left: 1px solid #ccc; margin-left: 2em; padding-left: 0.5em;}
+blockquote {padding: 0.4em; background-color: #f6f5eb;}
+th, td {border: 1px solid #ccc; padding: 0.3em;}
+th {background-color: #f0f0f0;}
+hr {border: none; border-top: 1px solid #ccc; width: 100%;}
+del {text-decoration: line-through; color: #777777;}
+.toc li {list-style-type: none;}
+.justleft {text-align: left;}
+.justright {text-align: right;}
+.justcenter {text-align: center;}
+.center {margin-left: auto; margin-right: auto;}
+nav { height:1em; font:normal 1.4em/2em "Sorts Mill Goudy" }
+nav > ul { width:80%; height:100%; margin:1em auto }
+nav > ul { list-style:none }
+nav > ul > li { float:right }
+nav > ul > li:nth-child(even) { margin-left:0.5em; margin-right:0.5em }
+a:link,nav a:visted { }
+a:hover,nav a:active { text-decoration:underline }
+footer { background-color:#888888; font:1em/2em Georgia; text-align:center }
