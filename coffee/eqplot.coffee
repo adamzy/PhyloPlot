@@ -218,6 +218,7 @@ $(document).ready ->
         try
             load_options()
             plotPhylogeny(options)
+            $("#plot").get(0).scrollIntoView()
             $("#te").hide()
         catch error
             console.log error
