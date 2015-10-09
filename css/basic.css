@@ -1,3 +1,13 @@
+<<<<<<< HEAD
+=======
+@font-face {
+  font-family: 'Alegreya';
+  font-weight: 400;
+  font-style: normal;
+  src: local('Alegreya'), local('Alegreya-regular'),
+       url('/fonts/Alegreya-regular/Alegreya-regular.ttf') format('truetype');
+}
+>>>>>>> master
 body {font-family: sans-serif; margin: 0 2em; font-size: 16px; line-height: 130%;}
 h1, h2, h3, h4, h5, h6 {font-family: Helvetica, sans-serif; font-weight: bold; line-height:100%; margin-top: 1em; margin-bottom: 0.5em;}
 h1 {font-family:Alegreya,Times New Roman,Serif; font-size: 3.5em; color: #000000;}
